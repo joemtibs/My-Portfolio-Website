@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joseph Mawuli Tibu - Photojournalist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #35424a;
+            color: #ffffff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            color: #ffffff;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #35424a;
+            color: #ffffff;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Joseph Mawuli Tibu</h1>
+    <p>Photojournalist & Photographer</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#interests">Interests</a>
+    <a href="#portfolio">Portfolio</a>
+</nav>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm Joseph Mawuli Tibu, a passionate photojournalist and photographer. I specialize in capturing the essence of moments through my lens.</p>
+</section>
+
+<section id="interests">
+    <h2>Interests</h2>
+    <ul>
+        <li>Corporate Headshots</li>
+        <li>Events</li>
+        <li>Weddings</li>
+        <li>Socio-Cultural Events</li>
+    </ul>
+</section>
+
+<section id="portfolio">
+    <h2>Portfolio</h2>
+    <p>Check out my work at <a href="https://qwequtibsphotograp.wixsite.com/qwequtibsphotography" target="_blank">Qwequtibs Photography</a>.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Joseph Mawuli Tibu. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
